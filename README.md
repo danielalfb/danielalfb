@@ -5,6 +5,7 @@
 
 ```ts
 const danielalfb = {
+    name: "Dani",
     pronouns: "she" | "her",
     age: "24",
     based: "brazil",
