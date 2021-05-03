@@ -1,5 +1,4 @@
 <h2 align="center">Hi there👋🏾, welcome to my GitHub!</h2>
-<h4 align="center">I'm Dani, a 24 years old fullstack developer-to-be from Brazil!</h4>
 
 </br>
 <p>
@@ -7,8 +6,20 @@
 </p>
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
+const danielalfb = {
+    pronouns: "She" | "Her",
+    age: "24",
+    based: "Brazil",
+    learning: ["Javascript", "Typescript", "React", "Node"],
+    askMeAbout: ["anything"],
+    funFacts: {
+        aboutCoding:  ["Self-taught", "Late bloomer", "Adventurous"],
+        aboutLife: ["Vegetarian", "Leo", "Cat-lady"]
+    },
+    currentFocus: "Learning React and growing my skillset in algorithm writing",
+    favoriteQuote: "The chances of finding out what’s really going on in the universe are so remote, the only thing to do is hang the sense of it and keep yourself occupied",
+    lastMessage: "Ask me about anything, I am happy to help and connect with different people. So long and thanks for all the fish."
+};
 }
 ```
 
