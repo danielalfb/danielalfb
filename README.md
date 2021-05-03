@@ -1,9 +1,7 @@
 <h2 align="center">Hi there👋🏾, welcome to my GitHub!</h2>
 
 </br>
-<p>
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif"><img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif" style="max-width:100%;"></a>
-</p>
+
 
 ```ts
 const danielalfb = {
@@ -26,7 +24,9 @@ const danielalfb = {
 }
 ```
 
-
+<p>
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif"><img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif" style="max-width:100%;"></a>
+</p>
 
 
 
