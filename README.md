@@ -9,24 +9,24 @@
       align="center"
       src="https://img.icons8.com/clouds/50/000000/twitter.png"
       alt="dneiela"
-      height="30"
-      width="40"
+      height="50"
+      width="50"
   /></a>
   <a href="https://linkedin.com/in/danielalfb" target="blank"
     ><img
       align="center"
       src="https://img.icons8.com/clouds/50/000000/linkedin.png"
       alt="danielalfb"
-      height="30"
-      width="40"
+      height="50"
+      width="50"
   /></a>
   <a href="https://instagram.com/dneiela" target="blank"
     ><img
       align="center"
       src="https://img.icons8.com/clouds/50/000000/instagram-new--v1.png"
       alt="dneiela"
-      height="30"
-      width="40"
+      height="50"
+      width="50"
   /></a>
 </p>
 
