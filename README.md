@@ -19,7 +19,7 @@ const danielalfb = {
     currentFocus: "Learning React and growing my skillset in algorithm writing",
     favoriteQuote: "The chances of finding out what’s really going on in the universe are so remote, the only thing to do is 
     hang the sense of it and keep yourself occupied",
-    finalMessage: "Ask me about anything. I'm a firm believer that we're all here to grow and learn together. Let's connect and share!
+    finalMessage: "Ask me about anything. I'm a firm believer that we're all here to grow and learn together. Let's connect!
     So long and thanks for all the fish."
 };
 ```
