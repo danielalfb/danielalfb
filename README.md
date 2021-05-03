@@ -1,42 +1,11 @@
 <h2 align="center">Hi there👋🏾, welcome to my GitHub!</h2>
 <h4 align="center">I'm Dani, a 24 years old fullstack developer-to-be from Brazil!</h4>
 
-<p align="left"><img src="https://user-images.githubusercontent.com/47404519/116915471-7105c080-ac22-11eb-83cc-7888269db254.png"
+<p slign="center"><a href="https://twitter.com/dneiela" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://instagram.com/dneiela" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://linkedin.com/in/danielalfb" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+
+<p align="left"><img src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif"
       height="auto"
-      width="250"><h3>Connect with me:</h3>
- 
-<p align="left">
-  
-  <h3Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/dneiela" target="blank"
-    ><img
-      align="center"
-      src="https://img.icons8.com/clouds/100/000000/twitter.png"
-      alt="dneiela"
-      height="100"
-      width="100"
-  /></a>
-</p>
-
-
-  <a href="https://linkedin.com/in/danielalfb" target="blank"
-    ><img
-      align="center"
-      src="https://img.icons8.com/clouds/100/000000/linkedin.png"
-      alt="danielalfb"
-      height="100"
-      width="100"
-  /></a>
-  <a href="https://instagram.com/dneiela" target="blank"
-    ><img
-      align="center"
-      src="https://img.icons8.com/clouds/100/000000/instagram-new--v1.png"
-      alt="dneiela"
-      height="100"
-      width="100"
-  /></a>
-</p>
+      width="250">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
