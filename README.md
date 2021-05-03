@@ -22,7 +22,6 @@ const danielalfb = {
     lastMessage: "Ask me about anything, I am happy to help and connect with different people. 
     So long and thanks for all the fish."
 };
-}
 ```
 
 <p>
