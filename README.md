@@ -6,7 +6,7 @@
 </br>
 </br></br>
 
-| lalalalalla | <img src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif" height="auto" width="300"> |
+lalalalalla  <img src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif" height="auto" width="300">
 <tr>
 <td></td>
 <td></td>
