@@ -1,19 +1,13 @@
-<h1 align="center">Hi there👋🏾, I'm Dani!</h1>
-<h3 align="center">A 24 years old fullstack developer-to-be from Brazil!</h3>
+<h3 align="center">Hi there👋🏾, welcome to my GitHub!</h3>
+<h4 align="center">I'm Dani, a 24 years old fullstack developer-to-be from Brazil!</h4>
 
-<style>
-  h3{color: red}
-</style>
 
-- 👩🏾‍💻 I’m currently working on: **aa** - 🌱 I’m currently learning **aa** - 🤝
-I’m looking for help with **aa**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/dneiela" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg"
+      src="https://img.icons8.com/clouds/50/000000/twitter.png"
       alt="dneiela"
       height="30"
       width="40"
@@ -21,7 +15,7 @@ I’m looking for help with **aa**
   <a href="https://linkedin.com/in/danielalfb" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg"
+      src="https://img.icons8.com/clouds/50/000000/linkedin.png"
       alt="danielalfb"
       height="30"
       width="40"
@@ -29,7 +23,7 @@ I’m looking for help with **aa**
   <a href="https://instagram.com/dneiela" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg"
+      src="https://img.icons8.com/clouds/50/000000/instagram-new--v1.png"
       alt="dneiela"
       height="30"
       width="40"
@@ -122,3 +116,5 @@ I’m looking for help with **aa**
     alt="danielalfb"
   />
 </p>
+
+![image](https://user-images.githubusercontent.com/47404519/116912757-08691480-ac1f-11eb-988d-0a10a279e1ea.png)
