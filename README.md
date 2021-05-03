@@ -1,5 +1,5 @@
-<h2 align="left">Hi there👋🏾, welcome to my GitHub!</h2>
-<h4 align="left">I'm Dani, a 24 years old fullstack developer-to-be from Brazil!</h4>
+<h2 align="center">Hi there👋🏾, welcome to my GitHub!</h2>
+<h4 align="center">I'm Dani, a 24 years old fullstack developer-to-be from Brazil!</h4>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -7,26 +7,26 @@
   <a href="https://twitter.com/dneiela" target="blank"
     ><img
       align="center"
-      src="https://img.icons8.com/clouds/50/000000/twitter.png"
+      src="https://img.icons8.com/clouds/100/000000/twitter.png"
       alt="dneiela"
-      height="50"
-      width="50"
+      height="100"
+      width="100"
   /></a>
   <a href="https://linkedin.com/in/danielalfb" target="blank"
     ><img
       align="center"
-      src="https://img.icons8.com/clouds/50/000000/linkedin.png"
+      src="https://img.icons8.com/clouds/100/000000/linkedin.png"
       alt="danielalfb"
-      height="50"
-      width="50"
+      height="100"
+      width="100"
   /></a>
   <a href="https://instagram.com/dneiela" target="blank"
     ><img
       align="center"
-      src="https://img.icons8.com/clouds/50/000000/instagram-new--v1.png"
+      src="https://img.icons8.com/clouds/100/000000/instagram-new--v1.png"
       alt="dneiela"
-      height="50"
-      width="50"
+      height="100"
+      width="100"
   /></a>
 </p>
 
