@@ -14,8 +14,8 @@ const danielalfb = {
     currentTools:["javascript", "typescript", "CSS", "HTML"],
     askMeAbout: ["anything"],
     funFacts: {
-        aboutCoding:  ["Self-taught", "Late bloomer", "Adventurous"],
-        aboutLife: ["Vegetarian", "Leo", "Cat-lady"]
+        aboutCoding:  ["self-taught", "late bloomer", "adventurous"],
+        aboutLife: ["vegetarian", "leo", "cat-lady"]
     },
     currentFocus: "Learning React and growing my skillset in algorithm writing",
     favoriteQuote: "The chances of finding out what’s really going on in the universe are so remote, 
