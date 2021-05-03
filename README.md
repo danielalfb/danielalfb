@@ -17,10 +17,8 @@ const danielalfb = {
         aboutLife: ["vegetarian", "leo", "cat-lady"]
     },
     currentFocus: "Learning React and growing my skillset in algorithm writing",
-    favoriteQuote: "The chances of finding out what’s really going on in the universe are so remote, 
-    the only thing to do is hang the sense of it and keep yourself occupied",
-    lastMessage: "Ask me about anything, I am happy to help and connect with different people. 
-    So long and thanks for all the fish."
+    favoriteQuote: "The chances of finding out what’s really going on in the universe are so remote, the only thing to do is hang the sense of it and keep yourself occupied",
+    lastMessage: "Ask me about anything, I am happy to help and connect with different people. So long and thanks for all the fish."
 };
 ```
 
