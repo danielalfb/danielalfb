@@ -2,7 +2,7 @@
 <h4 align="center">I'm Dani, a 24 years old fullstack developer-to-be from Brazil!</h4>
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/47404519/116915233-24ba8080-ac22-11eb-8ec5-22a5d998bba1.png">
+  <img src="https://user-images.githubusercontent.com/47404519/116915471-7105c080-ac22-11eb-83cc-7888269db254.png">
   <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/dneiela" target="blank"
