@@ -6,7 +6,7 @@
     <td><img src="https://user-images.githubusercontent.com/47404519/116915471-7105c080-ac22-11eb-83cc-7888269db254.png"
       height="auto"
       width="250"</td>
-    <td><h3Connect with me:</h3></td>
+    <td><h3>Connect with me:</h3></td>
  </tr>
  </table>
  
