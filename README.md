@@ -1,5 +1,5 @@
-<h3 align="center">Hi there👋🏾, welcome to my GitHub!</h3>
-<h4 align="center">I'm Dani, a 24 years old fullstack developer-to-be from Brazil!</h4>
+<h2 align="left">Hi there👋🏾, welcome to my GitHub!</h2>
+<h4 align="left">I'm Dani, a 24 years old fullstack developer-to-be from Brazil!</h4>
 
 
 <h3 align="center">Connect with me:</h3>
