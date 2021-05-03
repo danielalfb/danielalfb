@@ -6,9 +6,9 @@
 </br>
 </br></br>
 <p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"><img align="right" height="270px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif"><img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif" style="max-width:100%;"></a>
 </p>
-<p align="center"><ul><li>🌱 I'm currently learning React.</li><li>👯 I love learning new languages and watching cooking tv shows.</li><li>🥅 Future Goals: Learn more technologies  and never stop creating new ideas.</li><li>💬 Ask me about anything, I am happy to help and connect with different people 😁</li></ul><img src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif" height="auto" width="300"></p>
+<p align="center"><ul><li>🌱 I'm currently learning React.</li><li>👯 I love learning new languages and watching cooking tv shows.</li><li>🥅 Future Goals: Learn more technologies  and never stop creating new ideas.</li><li>💬 Ask me about anything, I am happy to help and connect with different people 😁</li></ul><img src="" height="auto" width="300"></p>
 
 
 
