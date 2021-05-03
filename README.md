@@ -5,17 +5,7 @@
 
 </br>
 </br></br>
-
-<p>🔭 I’m currently working on my Portfolio Website 😁
-🌱 I’m currently learning MERN Stack Development.
-👯 I’m looking to collaborate with other Developers 😉
-🥅 2020 Goals: Contribute to Open Source projects
-💬 Ask me about anything, I am happy to help 😄
-📬 How to reach me: Let's get in touch!
-🧗 I try to: Go beyond and push the bounds
-⚡ Fun fact: I love connecting with different people 🙌  | <img src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif" height="auto" width="300"></p>
-
-
+<p align="center"><ul><li>🌱 I'm currently learning React.</li><li>👯 I love learning new languages and watching cooking tv shows.</li><li>🥅 Future Goals: Learn more technologies  and never stop creating new ideas.</li><li>💬 Ask me about anything, I am happy to help and connect with different people 😁</li></ul><img src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif" height="auto" width="300"></p>
 
 
 
