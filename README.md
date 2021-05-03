@@ -9,9 +9,9 @@
 const danielalfb = {
     pronouns: "she" | "her",
     age: "24",
-    based: "Brazil",
+    based: "brazil",
     learning: ["react", "node"],
-    currentTools:["javascript", "typescript", "CSS", "HTML"]
+    currentTools:["javascript", "typescript", "CSS", "HTML"],
     askMeAbout: ["anything"],
     funFacts: {
         aboutCoding:  ["Self-taught", "Late bloomer", "Adventurous"],
