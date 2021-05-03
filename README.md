@@ -11,7 +11,7 @@
 
 <p align="left"><img src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif"
       height="auto"
-      width="250">
+      width="300">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
