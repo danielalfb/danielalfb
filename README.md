@@ -13,7 +13,8 @@
 💬 Ask me about anything, I am happy to help 😄
 📬 How to reach me: Let's get in touch!
 🧗 I try to: Go beyond and push the bounds
-⚡ Fun fact: I love connecting with different people 🙌  <img src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif" height="auto" width="300"></p>
+⚡ Fun fact: I love connecting with different people 🙌  | <img src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif" height="auto" width="300"></p>
+
 
 
 
