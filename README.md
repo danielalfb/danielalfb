@@ -7,11 +7,10 @@
 const danielalfb = {
     name: "Dani",
     pronouns: "she" | "her",
-    age: "24",
+    age: "25",
     based: "brazil",
     learning: ["javascript", "typescript", "react", "node"],
-    currentTools:["basic-javascript", "reeeeeeally-basic-typescript", "CSS", "HTML"],
-    askMeAbout: ["anything"],
+    currentTools:["javascript", "reeeeeeally-basic-typescript", "CSS", "HTML"],
     funFacts: {
         aboutCoding:  ["self-taught", "late bloomer", "adventurous"],
         aboutLife: ["vegetarian", "leo", "cat-lady"]
