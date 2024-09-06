@@ -1,27 +1,4 @@
 <h2 align="center">Hi there👋🏾, welcome to my GitHub!</h2>
-
-</br>
-
-
-```ts
-const danielalfb = {
-    name: "Dani",
-    pronouns: "she" | "her",
-    age: "26",
-    based: "brazil",
-    learning: ["javascript", "typescript", "react", "node"],
-    currentTools:["javascript", "reeeeeeally-basic-typescript", "CSS", "HTML"],
-    funFacts: {
-        aboutCoding:  ["self-taught", "late bloomer", "adventurous"],
-        aboutLife: ["vegetarian", "leo", "cat-lady"]
-    },
-    currentFocus: "Learning React and growing my skillset in algorithm writing",
-    favoriteQuote: "The chances of finding out what’s really going on in the universe are so remote, the only thing to do is 
-    hang the sense of it and keep yourself occupied",
-    finalMessage: "Ask me about anything. I'm a firm believer that we're all here to grow and learn together. Let's connect!
-    So long and thanks for all the fish."
-};
-```
 </br>
 <p>
 <a target="_blank" rel="noopener noreferrer" href="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif"><img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1539273/screenshots/3200990/ballena.gif" style="max-width:100%;"></a>
